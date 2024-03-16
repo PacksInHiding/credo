@@ -25,7 +25,7 @@ Die Reise durch die Wellen der kryptographischen Revolution ist noch nicht zu En
 
 *„Integrität bedeutet, das Richtige zu tun ... auch wenn niemand hinsieht oder jemals davon wissen wird.“* [^3]
 
-ZK spiegelt den Ethos "nicht vertrauen, überprüfen" wider, das für Mathematik, Open Source und Blockchains grundlegend ist. Computergestützte Integrität, die durch rekursive ZK-Nachweise in jedem Maßstab ermöglicht wird, ist der Grundstein dieses Elements.
+ZK spiegelt den Ethos "nicht vertrauen, überprüfen" wider, der für Mathematik, Open Source und Blockchains grundlegend ist. Computergestützte Integrität, die durch rekursive ZK-Nachweise in jedem Maßstab ermöglicht wird, ist der Grundstein dieses Elements.
 
 ### Privatsphäre
 
